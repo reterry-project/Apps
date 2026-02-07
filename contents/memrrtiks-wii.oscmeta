@@ -1,0 +1,21 @@
+{
+    "information": {
+        "name": "memrrtiks, suashem",
+        "author": "Terry Cavanagh",
+        "category": "games",
+        "supported_platforms": [
+            "wii",
+            "vwii",
+            "wii_mini"
+        ],
+        "peripherals": [
+            "Wii Remote",
+        ],
+        "version": "1.0"
+    },
+    "source": {
+        "type": "url",
+        "format": "zip",
+        "location": "https://reterry.uk/memrrtiks-wii.zip"
+    }
+}
